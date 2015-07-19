@@ -5,12 +5,12 @@ FadedColorful is a color scheme for PHPStorm. The colorscheme uses colors that a
 ## Screenshots
 
 CSS:
-![http://i.imgur.com/10GaKzN.png]
+!(http://i.imgur.com/10GaKzN.png)
 
 
 HTML:
-![http://i.imgur.com/mNcM8id.png]
+!(http://i.imgur.com/mNcM8id.png)
 
 
 PHP:
-![http://i.imgur.com/FnLTqjl.png]
+!(http://i.imgur.com/FnLTqjl.png)
